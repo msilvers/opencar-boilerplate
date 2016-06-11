@@ -1,0 +1,12 @@
+{
+    "id"          : "sdk.user.training",
+    "name"        : "training",
+    "css"         : [ "appStylesheet.css" ],
+    "controller"  : "appController.js",
+    "view"        : "appView.js",
+    "template"    : "appLayout.html",
+    "permissions" : [  ],
+    "categoryId"  : "WORKSPACE",
+    "date"        : "2016-05-28",
+    "version"     : "1.0.0"
+}
